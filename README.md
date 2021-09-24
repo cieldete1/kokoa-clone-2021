@@ -1,3 +1,3 @@
 #Kokoa Clone 2021 with Nomadcoders.co
 
-Practicing CSS by Kakao Clone coding
+Practicing HTML5 & CSS by Kakao Clone coding
